@@ -24,8 +24,8 @@ The app also features interactive icons for various functionalities:
 - **Java**
 - **JavaScript**
 
-##Server 
+## Server 
 -**Apache Tomcat 9.0**
 
-##Dynamic Web Project
+## Dynamic Web Project
 -**version 4.0**
